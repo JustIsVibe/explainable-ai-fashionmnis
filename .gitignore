@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+ENV/
+env/
+venv/
+
+# Data and Models
+data/
+models/
+outputs/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Gradio
+*.gradio/
